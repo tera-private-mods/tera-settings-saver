@@ -1,15 +1,7 @@
 {
-	"files": {
-		"README.md": "eee9f89ee371a99ad642f158afcdaef164f22877a92200dca87e0cf6c9d3d007",
-		"index.js": "eecf29921db877707a1f7139530315617b532086593a22491763e58da0e8f8da"
-	},
-	"defs": {
-		"C_LOAD_TOPO_FIN": "raw",
-		"C_SAVE_CLIENT_ACCOUNT_SETTING": "raw",
-		"C_SAVE_CLIENT_USER_SETTING": "raw",
-		"S_LOAD_CLIENT_ACCOUNT_SETTING": "raw",
-		"S_LOAD_CLIENT_USER_SETTING": "raw",
-		"S_LOAD_TOPO": "raw",
-		"S_RETURN_TO_LOBBY": "raw"
-	}
+    "files": {
+        "README.md": "eee9f89ee371a99ad642f158afcdaef164f22877a92200dca87e0cf6c9d3d007",
+        "index.js": "eecf29921db877707a1f7139530315617b532086593a22491763e58da0e8f8da",
+        "module.json": "2ec77265204dfab4c62aebf83e7ef69dee1e58cf339cf181fa4c6350a21fe4f5"
+    }
 }
